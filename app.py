@@ -54,7 +54,7 @@ if __name__ == '__main__':
     repo.index.commit(commit_message)
 
     # Lier le dépôt local à un dépôt GitHub distant
-    remote_url = "https://github.com/billfass/versioning.git"
+    remote_url = "https://github.com/billfass/versioning2.git"
     origin = repo.create_remote('origin', remote_url)
 
     # Pousser le code vers GitHub
