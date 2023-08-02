@@ -1,1 +1,0 @@
-# Mettez ici les commandes make utiles pour votre projet.
